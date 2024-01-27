@@ -2,7 +2,7 @@
 기본적인 출력문
 '''
 print('test1','test2','test3')  # 기본적인 출력문으로 , 구분하여 출력할 내용을 적음
-print('test1','test2','test3', sep='-') # 출력 내용을 'sep'으로 지정된 문자로 구분
+print('test1','test2','test3', sep='-') # 출력 내용을 'sep'으로 지정된 문자로 구분 
 print('test1','test2','test3', sep='===')
 print('test1','test2','test3', sep=' , ')
 print() # 줄바꿈
@@ -61,3 +61,7 @@ num2 = int(input('두번째 숫자를 입력해주세요 >>> '))
 num3 = num1 + num2
 print(f'{num1} + {num2} = {num3}')
 print(f'{num1} + {num2} = {num1+num2}') #간단한 수식을 {}내에 사용할 수 있다.
+
+# git
+# +
+# github, gitlab, source...
